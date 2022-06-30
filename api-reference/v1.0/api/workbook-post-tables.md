@@ -1,5 +1,5 @@
 ---
-title: "Create table"
+title: "Create a table"
 description: "In this article, you can learn how you can use the Create table API to create a new table."
 author: "lumine2008"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "excel"
 doc_type: apiPageType
 ---
 
-# Create table
+# Create a new table
 
 Namespace: microsoft.graph
 

@@ -1,5 +1,5 @@
 ---
-title: "List tables"
+title: "Retrieve a list of table objects"
 description: "In this article, you can learn how List tables retrieve a list of table objects."
 author: "lumine2008"
 ms.localizationpriority: medium
@@ -7,7 +7,7 @@ ms.prod: "excel"
 doc_type: apiPageType
 ---
 
-# List tables
+# List table objects
 
 Namespace: microsoft.graph
 
