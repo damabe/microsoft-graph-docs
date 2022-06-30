@@ -1,6 +1,6 @@
 ---
 title: "List tables"
-description: "Retrieve a list of table objects."
+description: "In this article, you can learn how List tables retrieve a list of table objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

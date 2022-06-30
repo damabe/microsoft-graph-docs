@@ -1,6 +1,6 @@
 ---
 title: "List worksheets"
-description: "Retrieve a list of worksheet objects."
+description: "In this article, you can learn how List worksheets retrieve a list of worksheet objects."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"

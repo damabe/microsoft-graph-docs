@@ -1,6 +1,6 @@
 ---
 title: "educationLinkResource resource type"
-description: "A subclass of educationResource."
+description: "Learn how the educationLinkResource resource type is a subclass of educationResource."
 author: "mmast-msft"
 ms.localizationpriority: medium
 ms.prod: "education"

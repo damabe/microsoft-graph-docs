@@ -1,6 +1,6 @@
 ---
 title: "workbookRangeView: itemAt"
-description: "One of the following permissions is required to call this API. To learn more, including how to choose permissions, see Permissions."
+description: "One of the following permissions is required to call the workbookRangeView: itemAt API. To learn more, including how to choose permissions, see Permissions."
 ms.localizationpriority: medium
 author: "lumine2008"
 ms.prod: "excel"

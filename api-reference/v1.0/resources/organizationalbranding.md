@@ -1,6 +1,6 @@
 ---
 title: "organizationalBranding resource type"
-description: "Contains details of the organization's branding."
+description: "The organizationalBranding resource type contains details of the organization's branding."
 author: "AlexanderMars"
 ms.localizationpriority: medium
 ms.prod: "identity-and-sign-in"

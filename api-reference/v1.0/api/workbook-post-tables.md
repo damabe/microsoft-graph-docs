@@ -1,6 +1,6 @@
 ---
 title: "Create table"
-description: "Use this API to create a new Table."
+description: "In this article, you can learn how you can use the Create table API to create a new table."
 author: "lumine2008"
 ms.localizationpriority: medium
 ms.prod: "excel"
